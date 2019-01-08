@@ -1,1 +1,2 @@
-this is seccond git file
+hi 
+this is seccond git file to amend
